@@ -1,1 +1,3 @@
 # sum_test
+
+init
